@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34732f62f86ca5d498023d99fd95c155, type: 3}
+  m_Name: 01_Nobleman
+  m_EditorClassIdentifier: 
+  buy: Hello, dear salesman, would you have @ ?
+  sell: Placeholder sell
+  acceptHappy: What a splendid offer, my fellow!
+  acceptNeutral: "Not bad, not bad at all\u2026"
+  acceptUnhappy: Fine, but this stand will end soon!
+  refuseNeutral: Heavens, do you think my money comes easy?!
+  refuseUnhappy: What an outrageous! Forget it!
+  otherItemAccept: Interesting, I think it will do.
+  otherItemRefuse: What a shame, but I cant go with less...
+  gossip: "Where went the glory days\u2026?"
+  portrait: {fileID: 21300000, guid: d90f5df0cd2784c4d9422f2319026716, type: 3}

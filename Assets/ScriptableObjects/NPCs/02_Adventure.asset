@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34732f62f86ca5d498023d99fd95c155, type: 3}
+  m_Name: 02_Adventure
+  m_EditorClassIdentifier: 
+  buy: Hail, brave seller, my adventures require @!
+  sell: Placeholder sell
+  acceptHappy: The good winds bless me with this sale! Deal!
+  acceptNeutral: A fine offer, I'll take it!
+  acceptUnhappy: What a draconian deal, but I need it.
+  refuseNeutral: I think we started on the wrong foot, strike me another deal.
+  refuseUnhappy: No way, I'd rather enter the dungeon unequipped!
+  otherItemAccept: A bold alternative! Let's see!
+  otherItemRefuse: This way I would end up in a dragon's mouth!
+  gossip: "The world is more and more violent\u2026"
+  portrait: {fileID: 21300000, guid: fae7595d496ed5c49b166be81baff6ae, type: 3}

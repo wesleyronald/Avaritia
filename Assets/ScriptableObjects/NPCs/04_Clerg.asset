@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34732f62f86ca5d498023d99fd95c155, type: 3}
+  m_Name: 04_Clerg
+  m_EditorClassIdentifier: 
+  buy: Hello, blessed one, we need a @.
+  sell: Placeholder sell
+  acceptHappy: Divine! What a blessed offer!
+  acceptNeutral: Yes, yes, great offer!
+  acceptUnhappy: This way there is no salvation for your soul!
+  refuseNeutral: Why, have mercy! We can't deal this way!
+  refuseUnhappy: How bold, curse you!
+  otherItemAccept: A new way is shown to us.
+  otherItemRefuse: The gods seal us this door, goodbye.
+  gossip: The gods are angry with us, my son, we've been cursed!
+  portrait: {fileID: 21300000, guid: d90f5df0cd2784c4d9422f2319026716, type: 3}

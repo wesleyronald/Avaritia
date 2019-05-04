@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34732f62f86ca5d498023d99fd95c155, type: 3}
+  m_Name: 03_Cheap
+  m_EditorClassIdentifier: 
+  buy: Hello, I need a cheap @!
+  sell: Placeholder sell
+  acceptHappy: Splendid! The deal I've asked the gods!
+  acceptNeutral: Very well, it works this way!
+  acceptUnhappy: Terrible service, I won't be coming back!
+  refuseNeutral: What an absurd price, there is no deal like this!
+  refuseUnhappy: What a waste of time!
+  otherItemAccept: "\u2026 Maybe ill save up some coins."
+  otherItemRefuse: I wont waste my hard-earned money on this!
+  gossip: "These are hard times, my friend, hard times\u2026"
+  portrait: {fileID: 21300000, guid: d90f5df0cd2784c4d9422f2319026716, type: 3}
